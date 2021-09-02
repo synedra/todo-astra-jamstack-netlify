@@ -2,7 +2,7 @@
 # JAMStack + Netlify + Astra DB + Cassandra 📒
 *10 minutes, Beginner, [Start Building](https://github.com/DataStax-Examples/todo-astra-jamstack-netlify#prerequisites)*
 
-This is an example React To-Do application using a [DataStax Astra](https://astra.datastax.com/register?utm_source=devplay&utm_medium=github&utm_campaign=todo-astra-jamstack-netlify) free tier database.
+This is an example React To-Do application using a [DataStax Astra](https://dtsx.io/38vZSSA) free tier database.
 <!--- ENDEXCLUDE --->
 
 ![image](https://monosnap.com/image/Fv0yPAznbeNJD3vYlQfztME6yogzFT)
@@ -26,7 +26,7 @@ Follow the instructions below to get started.
 Let's do some initial setup by creating a serverless(!) database.
 
 ### DataStax Astra
-1. Create a [DataStax Astra account](https://astra.datastax.com/register?utm_source=github&utm_medium=referral&utm_campaign=todo-astra-jamstack-netlify) if you don't already have one:
+1. Create a [DataStax Astra account](https://dtsx.io/38vZSSA) if you don't already have one:
 ![image](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/astra-register-basic-auth.png)
 
 2. On the home page. Locate the button **`Create Database`**
