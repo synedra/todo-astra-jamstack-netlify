@@ -5,7 +5,7 @@
 This is an example React To-Do application using a [DataStax Astra](https://dtsx.io/2Yhvqtv) free tier database.
 <!--- ENDEXCLUDE --->
 
-![image](https://monosnap.com/image/Fv0yPAznbeNJD3vYlQfztME6yogzFT)
+![image](https://raw.githubusercontent.com/DataStax-Examples/todo-astra-jamstack-netlify/master/hero.png)
 
 ## Objectives
 * Provide a fullstack development example using Astra DB as the storage backend
