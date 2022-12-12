@@ -7,7 +7,7 @@
   "gitpodUrl": "https://dtsx.io/3gtADSq",
   "netlifyUrl": "https://dtsx.io/2EtfGty",
   "tags": [{ "name": "javascript" }, { "name": "Document API" }],
-  "category": "apps",
+  "category": "workshop",
   "priority": 2,
   "heroImage": "https://raw.githubusercontent.com/DataStax-Examples/todo-astra-jamstack-netlify/master/hero.png"
 }
